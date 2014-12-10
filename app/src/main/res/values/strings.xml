@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Radio</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">Home</string>
+    <string name="ipservidor">192.168.0.9</string>
+    <string name="rutalogin">"/radio/acces.php"</string>
+    <string name="adduser">"/radio/adduser.html"</string>
+    <string name="errorlogin">Error: Usuario o contraseña incorrectas, por favor intente de nuevo.</string>
+</resources>
